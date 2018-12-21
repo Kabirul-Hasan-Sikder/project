@@ -1,0 +1,340 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 1500px;
+    background-image: linear-gradient(to right, #4CD1E4 , #3E6DFD );
+    font-family: arial;
+}
+.zzz{
+    margin-top: 100px !important;
+    margin: auto;
+    background-image: linear-gradient(to right, #3E6DFD , #4CD1E4);
+    height: 540px;
+    background-repeat: no-repeat;
+    width: 1010px;
+    font-family:arial;
+}
+.up-logo{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to right, #3E6DFD , #4CD1E4);
+}
+.zumba{
+    border-radius: 25px;
+    border: 1px solid white;
+    transition: .3s;
+    background-color: Transparent;
+    color: white;
+    width: 170px;
+    height: 42px;
+    font-family: arial;
+
+}
+.zumba:hover{
+    border: 1px solid #3F70FC;
+    background-image: linear-gradient(to right, #3E6DFD , #4CD1E4);
+}
+.up-logo img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.fontA{
+    float: right;
+    overflow: hidden;
+    color: white;
+    font-size: 20px;    
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.line{
+    margin-top: 15px;
+    height: 1px;
+    width: 100%;
+    background: #BDC3C7;
+}
+.mid{
+    width: 100%;
+    overflow: hidden;
+}
+.mid .text{
+    width: 60%;
+    margin-top: 120px;
+    margin-left: 20px;
+    color: white;
+    float: left;
+    overflow: hidden;
+    font-size: 20px;
+}
+.mid .image{
+    width: 38%;
+    float: right;
+    overflow: hidden;
+}
+.mid .image img{
+    height: 330px;
+    margin-top: 123px;
+    transition: 2s;
+}
+.working{
+    height: 565px;
+    background-color: white;
+    margin-top: -21px;
+    font-family: arial;
+
+}
+.working .text{
+    height: 50%;
+    text-align: center;
+    font-family: arial;
+    color: #222222;
+}
+.working .text p{
+    color: gray;
+}
+.working .awesome div{
+    height: 100%;
+    width: 25%;
+    float: left;
+    overflow: hidden;
+}
+.working .awesome b{
+    text-align: center;
+    margin-left: 45px;
+    font-size: 20px;
+    color: #222222;
+}
+.awesome .k{
+    padding: 40px;
+    border: .5px solid #D7DBDD;
+    margin-left: 60px;
+    font-size: 35px;
+    color: #3498DB;
+}
+
+.features{
+    height: 850px;
+    background-image: linear-gradient(to right, #3E6DFD , #4CD1E4);
+}
+.features .details{
+    overflow: hidden;
+}
+.features .details h3,p{
+    text-align: center;
+    color: white;
+}
+.features .details img{
+    border-radius: 5px;
+}
+.features .details button{
+    margin-left: 85px;
+    border-radius: 50px;
+    border: 1px solid white;
+    background-color: Transparent;
+    transition: .5s;
+}
+.features .details button:hover{
+    background: #D5F5E3;
+    color: #2C3E50;
+}
+.details .one{
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    margin-left: 20px;
+    margin-right: 15px;
+}
+.details h3{
+    margin-top: 35px;
+}
+.details p{
+    margin-top: 25px;
+}
+.details .two{
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.details .three{
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.fea-text{
+    height: 25%;
+    font-family: arial;
+    text-align: center;
+    color: white;
+}
+.fea-text h2{
+    padding-top: 77px;
+}
+.features .container{
+    height: 75%;
+}
+.remarkable{
+    height: 270px;
+    background-color: white;
+}
+.remarkable h3,p{
+    text-align: center;
+    color: #222222;
+}
+.remarkable h3{
+    padding-top: 100px;
+}
+.remarkable p{
+    padding-top:10px;
+    color:gray;
+}
+.pic-div{
+    height: 1200px;
+    background-color: #F3F3F3;
+}
+
+.two-part{
+    height: 480px;
+    overflow: hidden;
+}
+.two-part .left-part{
+    width: 50%;
+    height: 480px;
+    background-image: linear-gradient(to right, #3E6CFD , #459EF0);
+    float: left;
+    overflow: hidden;
+}
+.two-part .right-part{
+    width: 50%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+}
+.subscribe{
+    height: 260px;
+    background-color: #F9F9FF;
+    overflow: hidden;
+}
+.subscribe .txt{
+    width: 50%;
+    float: left;
+    overflow: hidden;
+    margin-top: 90px;
+    margin-left: 15px;
+}
+.subscribe .txt .sp{
+    font-size: 25px;
+    color: #222222;
+}
+.subscribe .txt span{
+    font-size: 15px;
+    color: gray;
+}
+.subscribe .inputt{
+    width: 50%;
+    float: right;
+    overflow: hidden;
+    margin-top: -50px;
+}
+.inputt input .vrum{
+    border-radius: 10px;
+    
+    background-color: Transparent;
+}
+.nich{
+    height: 800px;
+}
+.nich .thirty{
+    height: 30%;
+    text-align: center;
+}
+.nich .thirty h3,p{
+    color: white; 
+}
+.nich .thirty h3{
+    padding-top:110px;
+    font-style: bold;
+}
+.nich .thirty p{
+    font-size: 16px;
+}
+.nich .four{
+    height: 40%;
+}
+
+.nich .thirt{
+    height: 30%;
+    text-align: center;
+    padding-top: 70px;
+}
+.thirt h4,p{
+    color: white;
+}
+.thirt .add{
+    width: 33%;
+    float: left;
+    overflow: hidden;
+}
+.thirt .mail{
+    width: 33%;
+    float: left;
+    overflow: hidden;
+}
+.thirt .fon{
+    width: 33%;
+    float: left;
+    overflow: hidden;
+}
+.footer{
+    height: 70px;
+    width: 1000px;
+    overflow: hidden;
+}
+.foot{
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    overflow: hidden;
+}
+.cpright{
+    float: left;
+    overflow: hidden;
+    margin-left: 115px;
+    color: white;
+    margin-top: 10px;
+}
+ul li{
+    text-decoration: none;
+    display: inline;
+}
+.logo img{
+    
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.foot .fontA{
+    
+    float: right;
+    overflow: hidden;
+    color: white;
+    font-size: 20px;    
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.fab{
+    border: 1px solid white;
+    padding: 5px;
+    transition: 2s;
+}
+.fab:hover{
+    background-image: linear-gradient(to right, #3E6DFD , #4CD1E4);
+}
+.container .form-group{
+    background-color: Transparent;
+}
+button .lala{
+    border-radius: 50px;
+}
